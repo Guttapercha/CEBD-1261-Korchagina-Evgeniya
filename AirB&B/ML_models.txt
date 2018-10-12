@@ -1,0 +1,11 @@
+Regression models:
+
+- linear regression
+- random forest and decision tree
+- K-nearest neighbours
+
+Clustering:
+
+- DB Scan (one can try hereusing python module with map representation)
+- K-means
+- Hierarhical clustering
